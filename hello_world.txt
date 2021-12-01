@@ -1,0 +1,4 @@
+Hello World. I am following the Odin Project and am modifying this file to save to Git!
+Hello Odin!
+Today is December 1, 2021
+I WILL become a Software Engineer!
